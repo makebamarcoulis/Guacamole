@@ -1,2 +1,4 @@
-mix indgredients
+mash avos
+chop toms
+stir in tom and lime
 add secret ingredient
