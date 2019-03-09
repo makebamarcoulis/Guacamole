@@ -6,3 +6,5 @@ garlic
 jalepeno
 onion
 buy chips 
+salt
+pepper
